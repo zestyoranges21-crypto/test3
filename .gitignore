@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# (Optional) editor and OS noise
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
